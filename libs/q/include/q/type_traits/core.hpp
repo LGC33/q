@@ -22,6 +22,7 @@
 #include <tuple>
 #include <memory>
 #include <vector>
+#include <cstdint>
 
 namespace q {
 #define Q_FORWARD( value ) \

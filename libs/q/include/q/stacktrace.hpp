@@ -20,6 +20,7 @@
 #include <iosfwd>
 #include <vector>
 #include <string>
+#include <cstdint>
 
 namespace q {
 
