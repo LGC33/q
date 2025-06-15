@@ -20,6 +20,7 @@
 #include <vector>
 #include <string>
 #include <memory>
+#include <cstdint>
 
 namespace q {
 

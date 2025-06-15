@@ -18,6 +18,7 @@
 #define LIBQ_INTERNAL_NUMERIC_HPP
 
 #include <q/pp.hpp>
+#include <cstdint>
 
 #ifdef LIBQ_ON_WINDOWS
 #	include <intrin.h>

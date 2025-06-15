@@ -18,6 +18,7 @@
 #define LIBP_KLV_HPP
 
 #include <p/endian.hpp>
+#include <cstdint>
 
 #define LIBP_PACKED __attribute__(( __packed__ ))
 
